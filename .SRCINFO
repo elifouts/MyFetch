@@ -1,10 +1,11 @@
 pkgbase = myfetch
 	pkgdesc = Just Another Terminal Fetch Script
-	pkgver = 1.0.1
+	pkgver = 1.0.2
 	pkgrel = 2
 	url = https://github.com/elifouts/MyFetch
 	arch = any
 	license = MIT
+	optdepends = nerd-fonts: for the best experience
 	source = myfetch
 	sha256sums = SKIP
 
