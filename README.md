@@ -1,3 +1,5 @@
+## Install
+
 If you use Arch
 ```
 yay -S myfetch
@@ -8,3 +10,17 @@ git clone https://github.com/elifouts/MyFetch.git
 cd myfetch
 makepkg -si
 ```
+## Usage
+
+These flags are available
+
+```
+-i
+-f
+-c
+-C
+-v
+-h
+```
+
+### Examples
