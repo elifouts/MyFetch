@@ -1,3 +1,5 @@
+# About
+
 ## Install
 
 If you use Arch
