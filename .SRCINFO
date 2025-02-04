@@ -1,0 +1,11 @@
+pkgbase = myfetch
+	pkgdesc = Just Another Terminal Fetch Script
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/elifouts/MyFetch
+	arch = any
+	license = GPL
+	source = myfetch
+	sha256sums = SKIP
+
+pkgname = myfetch
