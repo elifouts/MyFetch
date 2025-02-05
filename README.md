@@ -9,7 +9,7 @@ yay -S myfetch
 If you use basically anything else
 ```
 git clone https://github.com/elifouts/MyFetch.git
-cd myfetch
+cd MyFetch
 makepkg -si
 ```
 ## Usage
