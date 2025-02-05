@@ -55,13 +55,13 @@ myfetch
 ```
 ![image](https://github.com/user-attachments/assets/bf8be407-8cb9-43f1-8667-a4854d9763a3)
 
-You can use your initials
+You can print your initials in ascii
 ```
 myfetch -i EF -c 8
 ```
 ![image](https://github.com/user-attachments/assets/6b442c10-dd10-4fe8-bc68-80c029c2ca57)
 
-You can change the Font
+You can change the ASCII Font to frame
 ```
 myfetch -i E -f -c 16
 ```
