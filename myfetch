@@ -318,7 +318,7 @@ while getopts "i:c:C:adfvh" opt; do
             ;;
         h) 
             echo
-            echo "Usage: myfetch [-i initials] [-f] [-v] [-h]"
+            echo "Usage: myfetch [-i initials] [-d] [-f] [-c 8|16] [-C string] [-v] [-h]"
             echo
             echo "  -i    Set custom Ascii initials (two letters)"
             echo "  -d    Show Distro"
