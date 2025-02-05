@@ -77,3 +77,6 @@ Uses Terminal Colors
 myfetch -d -c 8 -C " █"
 ```
 ![image](https://github.com/user-attachments/assets/6cee28c8-32d7-4e3a-8f0f-76a9f6856b45)
+
+
+See what `myfetch -a` does...
