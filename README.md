@@ -1,9 +1,14 @@
 
 # About
-A modular easy to use system fetch tool utilizing nerdfonts.
+A modular easy to use system fetch tool utilizing NerdFonts.
 - Clean
 - Simple
 - Customizable
+- Strong cross-OS compatability
+- Not bloated
+- Portable
+- POSIX
+
 
 > [!NOTE]
 > This is Forked from NerdFetch to be more modular.
