@@ -2,8 +2,8 @@
 
 _sourceName="myfetch"
 pkgname=myfetch
-pkgver=1.0.2
-pkgrel=2
+pkgver=1.0.3
+pkgrel=3
 pkgdesc="Just Another Terminal Fetch Script"
 arch=('any')
 url="https://github.com/elifouts/MyFetch"

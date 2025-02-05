@@ -1,7 +1,7 @@
 pkgbase = myfetch
 	pkgdesc = Just Another Terminal Fetch Script
-	pkgver = 1.0.2
-	pkgrel = 2
+	pkgver = 1.0.3
+	pkgrel = 3
 	url = https://github.com/elifouts/MyFetch
 	arch = any
 	license = MIT
