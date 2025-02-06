@@ -22,7 +22,7 @@ If you use Arch
 ```
 yay -S myfetch
 ```
-If you use basically anything else
+If you use basically anything else or want to manually install
 ```
 git clone https://github.com/elifouts/MyFetch.git
 cd MyFetch
